@@ -1,0 +1,2 @@
+Start react project in current directory
+>> npn react-create-app ./
